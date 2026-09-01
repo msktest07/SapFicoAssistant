@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+sap_fico.db
+.env
+.env.local
+.venv/
+venv/
+.DS_Store
+.vscode/
+node_modules/
+.idea/
